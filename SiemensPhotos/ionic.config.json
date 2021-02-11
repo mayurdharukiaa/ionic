@@ -1,0 +1,7 @@
+{
+  "name": "SiemensPhotos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
